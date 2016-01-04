@@ -1,5 +1,7 @@
 --Core Mods
 Agricraft
+Advanced Solars
+Aura Cascade
 Ars Magica 2
 Applied Energistics 2
 Ancient Warfare 2
@@ -38,6 +40,7 @@ Ender Tech
 Eureka
 Enchiridon 2
 Extra Cells 2
+Flaxbeard's Steampower
 Funky Locomotion
 FastLeafDecay
 Falling Meteors
@@ -61,8 +64,11 @@ MFFS (Modular Forcefield Systems)
 Minefactory Reloaded
 Nuklear Control
 Nodal Mechanics (Thaumcraft 4 Addon)
+Morpheus
 Open Computers
 Open Blocks
+OpenCCSensors
+OpenPeripheral
 Open Modular Turrets
 Project Red
 Pneumaticraft
@@ -76,17 +82,21 @@ Roguelike Dungeons
 Redstone Arsenal
 Redstone Armory
 Runic Dungeons
+RotaryCraft
 RF Tools
 Storage Drawers
 Super Multi Drills
 Steve's Workshop
 Steve's Factory Manager
 Simple Jetpacks
+Solar Expansion
 Translocators
 Thermal Foundation
 Thermal Dynamics
 Thermal Expansion
 Thaumcraft 4.2
+Tinkers Construct
+Tinkers Mechwork
 Thaumic Energistics (Thaumcraft 4 Addon)
 Thaumic Tinkerer  (Thaumcraft 4 Addon)
 Thaumic Exploration (Thaumcraft 4 Addon)
@@ -108,3 +118,5 @@ Waila
 Inventory Tweaks
 NotEnoughResources
 Thaumcraft NEI Plugin 
+NEI Integration
+NEI Addons
