@@ -1,10 +1,11 @@
 --Core Mods
-Apocrypta (thaumcraft 4 Adddon)
+Agricraft
 Ars Magica 2
 Applied Energistics 2
 Ancient Warfare 2
 Aroma1997Core
 Aroma Backup
+Baubels
 Botania
 Big Reactors
 Bibliocraft
@@ -14,10 +15,13 @@ Calculator
 Chisel 2
 Carpenters Blocks
 Chicken Chuncks
+Compact Chest
 Compact Machines
 Blue Power
-Bloodmagic
+Blood Magic
 Computercraft
+CodeChickenCore
+CodeChickenLib
 Draconic Evolution
 Dimensional Pocket
 Dimensional Control
@@ -27,13 +31,21 @@ Extra Utilities
 Ender Storage
 Ender Core
 Ender IO
+Ender Zoo
+Extra Bees
 Et Futurum
 Ender Tech
 Eureka
 Enchiridon 2
+Extra Cells 2
 Funky Locomotion
+FastLeafDecay
 Falling Meteors
+Forbidden Magic (thaumcraft 4 Adddon)
+Forestry
+Gendustry
 Gravity Gun
+Headcrumbs
 Immersive Engineering
 Immersive Integration
 Industrialcraft 2 experimental
@@ -42,10 +54,12 @@ Logistic Pipes
 Mekanism
 Magneticraft
 Minechem
+Magic Bees
 Modular Systems
 Modular Powersuits
 MFFS (Modular Forcefield Systems)
 Minefactory Reloaded
+Nuklear Control
 Nodal Mechanics (Thaumcraft 4 Addon)
 Open Computers
 Open Blocks
@@ -60,11 +74,15 @@ Railcraft
 Random Things
 Roguelike Dungeons
 Redstone Arsenal
+Redstone Armory
+Runic Dungeons
 RF Tools
 Storage Drawers
 Super Multi Drills
 Steve's Workshop
 Steve's Factory Manager
+Simple Jetpacks
+Translocators
 Thermal Foundation
 Thermal Dynamics
 Thermal Expansion
@@ -72,7 +90,9 @@ Thaumcraft 4.2
 Thaumic Energistics (Thaumcraft 4 Addon)
 Thaumic Tinkerer  (Thaumcraft 4 Addon)
 Thaumic Exploration (Thaumcraft 4 Addon)
-Compact Chest
+Travelers Gear
+Witchery
+Witching Gadgets (Thaumcraft 4 Addon)
 
 
 
@@ -86,3 +106,5 @@ NEI/Not enough Items
 Opis
 Waila
 Inventory Tweaks
+NotEnoughResources
+Thaumcraft NEI Plugin 
