@@ -1,4 +1,5 @@
 --Core Mods
+Advanced Generators
 Agricraft
 Advanced Solars
 Aura Cascade
@@ -6,6 +7,7 @@ Ars Magica 2
 AOBD2
 Applied Energistics 2
 Ancient Warfare 2
+AE2 Stuff
 Aroma1997Core
 Aroma Backup
 Baubels
@@ -14,17 +16,20 @@ Big Reactors
 Bibliocraft
 Buildcraft
 Buildcraft Additions
+Blue Power
+Blood Magic
+Brandon's Core
+BdLib
 Calculator
 Chisel 2
 Carpenters Blocks
 Chicken Chuncks
 Compact Chest
 Compact Machines
-Blue Power
-Blood Magic
 Computercraft
 CodeChickenCore
 CodeChickenLib
+Cromaticraft
 Draconic Evolution
 Dimensional Pocket
 Dimensional Control
@@ -50,11 +55,14 @@ Forbidden Magic (thaumcraft 4 Adddon)
 Forestry
 Gendustry
 Gravity Gun
+Guide-API
 Headcrumbs
 Immersive Engineering
 Immersive Integration
 Industrialcraft 2 experimental
 ICBM
+INpureCore
+Jabba
 Logistic Pipes
 Mekanism
 Magneticraft
@@ -99,13 +107,14 @@ Thermal Expansion
 Thaumcraft 4.2
 Tinkers Construct
 Tinkers Mechwork
+TICTooltip
 Thaumic Energistics (Thaumcraft 4 Addon)
 Thaumic Tinkerer  (Thaumcraft 4 Addon)
 Thaumic Exploration (Thaumcraft 4 Addon)
 Travelers Gear
 Witchery
 Witching Gadgets (Thaumcraft 4 Addon)
-
+Wawla
 
 
 
@@ -114,11 +123,15 @@ Witching Gadgets (Thaumcraft 4 Addon)
 
 
 --lite mods
-NEI/Not enough Items
-Opis
-Waila
+Fastcraft
 Inventory Tweaks
+Journey map
+NEI/Not enough Items
 NotEnoughResources
 Thaumcraft NEI Plugin 
 NEI Integration
 NEI Addons
+Optifine
+Opis
+Waila
+Zan's Minimap
