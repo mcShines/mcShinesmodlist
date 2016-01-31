@@ -16,4 +16,4 @@ Sofern es irgendwelche Fragen bezüglich des Modpacks oder des Projektes gibt, s
 #Project Start:28.2.2016
 #Modpack Status:MC Version 1.8.9 WIP
 #[Modlist](/New Modlist)
-#Regeln](/Regelwerk)
+#[Regeln](/Regelwerk)
