@@ -1,4 +1,4 @@
-# mcShinesmodlist
+# mcShines Project
 Minecraft Shines
 Modliste und Infos zum Minecraft Project "Shines"
 
