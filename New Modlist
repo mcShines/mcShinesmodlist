@@ -1,12 +1,13 @@
 --MC Shines Modlist
 --MC Version 1.8.9
 --Modpack Version 0.0.1
-  -Aura Cascade 
-  -Bloodmagic
-  -Buildcraft
-  -Botania 
-  -Chisel2
-  -Chisel and Bits
+  -Aura Cascade       (waiting for release)
+  -Baubles
+  -Bloodmagic     
+  -Buildcraft         (waiting for release)
+  -Botania            (waiting for release)
+  -Chisel2            (waiting for release)
+  -Chisel and Bits    
   -Computercraft
   -EnderTanks 
   -EZ Storage 
@@ -18,10 +19,11 @@
   -Just Enough Items (JEI)
   -Just Enough Resources (JER)
   -Mantle 
+  -McJtyLib           (added when RFTools updated)
   -Progressive Automation 
   -PneumaticCraft
   -Random Things 
-  -RFTools 
+  -RFTools            (waiting for stable version)
   -Simpleretrogen 
   -shetiphiancore
   -Thaumcraft 5
