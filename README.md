@@ -14,9 +14,9 @@ Sofern es irgendwelche Fragen bezüglich des Modpacks oder des Projektes gibt, s
 
 
 #Project Start:28.2.2016
-#Modpack Status:MC Version 1.8.9  Version: Alpha 0.1 out
-#[Momentan nur manuale instalation möglich] (https://www.dropbox.com/s/8suimylcpus1uoj/McShines.zip?dl=0)
-Installations Emphelung : MultiMC 
-#Techniklauncher Installation: WIP
+#Modpack Status:MC Version 1.8.9  Version: 1.0 out
+#[Vorgängerversion] (https://www.dropbox.com/s/8suimylcpus1uoj/McShines.zip?dl=0)
+ Installations der Vorgängerversion mit MultiMC durchführen
+#Techniklauncher Installation: http://api.technicpack.net/modpack/mcshines
 #[Modlist](/New Modlist)
 #[Regeln](/Regelwerk)
